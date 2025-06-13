@@ -1,5 +1,4 @@
-
-# 💸 UPI Transaction Data Analytics
+# UPI Transaction Data Analytics
 
 **Author:** Niranjan  
 **Date:** 31 May 2025
